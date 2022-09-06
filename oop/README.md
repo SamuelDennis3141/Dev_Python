@@ -2,6 +2,7 @@
 
 ## What is OOP?
 
+
 ### Benefits
 
 ## Four Pillars
@@ -12,12 +13,12 @@
 ### Polymorphism
 
 ### Keywords in Python
-`super() - Used to give access to methods and properties of a parent`
-`__init__ - Lets the class initialize the objects attributes`
-`pass - Used as a placeholder for future code (used to prevent errors from occuring)`
-`class NAME: - Creates a class`
-`def NAME: - Creates a method for the object in the class (for classes)`
-`self - Reference to the current object`
+- `super() - Used to give access to methods and properties of a parent`
+- `__init__ - Lets the class initialize the objects attributes`
+- `pass - Used as a placeholder for future code (used to prevent errors from occuring)`
+- `class NAME: - Creates a class`
+- `def NAME: - Creates a method for the object in the class (for classes)`
+- `self - Reference to the current object`
 
 
 ### Example
