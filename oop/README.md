@@ -1,18 +1,9 @@
-# Object Oriented Programming
+# Object Oriented Programming in Python
 
-## What is OOP?
+#### To learn more about the four pillars and theory of OOP [click here](https://github.com/SamuelDennis3141/OOP)
 
+### Keywords used in Python
 
-### Benefits
-
-## Four Pillars
-
-### Abstraction
-### Encapsulation
-### Inheritance
-### Polymorphism
-
-### Keywords in Python
 - `super() - Used to give access to methods and properties of a parent`
 - `__init__ - Lets the class initialize the objects attributes`
 - `pass - Used as a placeholder for future code (used to prevent errors from occuring)`
@@ -21,7 +12,9 @@
 - `self - Reference to the current object`
 
 
-### Example
+## Example
+
+![image](https://user-images.githubusercontent.com/112982429/188996624-45ba736b-3fa1-4212-b64f-28ee3a18e5f1.png)
 
 ### Animal File (Base class)
 ```python
